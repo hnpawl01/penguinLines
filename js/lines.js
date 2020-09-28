@@ -1,7 +1,3 @@
-
-
-
-
 //penguins is the array of data
 //target is the selection of the g element to place the graph in
 //xscale,yscale are the x and y scales.
